@@ -1,5 +1,4 @@
 from docx import Document
-from hyperlink import URL
 
 def generate_cover_letter(company_name, your_name, Degree, School, Extraciriculars, Program_Languages, frameworks, dev_tools, libraries, Previous_Role, What_you_did,):
     
